@@ -1,0 +1,3 @@
+PyQt6
+asyncio
+discord.py
